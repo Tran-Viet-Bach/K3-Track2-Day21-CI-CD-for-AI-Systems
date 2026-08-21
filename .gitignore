@@ -14,3 +14,4 @@ __pycache__/
 mlruns/
 aws-key.json
 s3-policy.json
+aws-credentials.txt
